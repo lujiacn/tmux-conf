@@ -1,0 +1,5 @@
+pane	0	1	:bash	1	:*	1	:/Users/i0040679/workspace/servers/linked_servers	1	bash	:
+pane	0	2	:bash	0	:-	1	:/Users/i0040679	1	bash	:
+window	0	1	1	:*	d55e,238x59,0,0,1
+window	0	2	0	:-	d560,238x59,0,0,3
+state	0	

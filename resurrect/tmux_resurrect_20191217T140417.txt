@@ -1,0 +1,7 @@
+pane	0	1	:nvim	0	:-	1	:/Users/i0040679/workspace/go/src/knew	1	nvim	:nvim
+pane	0	2	:bash	1	:*	1	:/Users/i0040679/workspace/go/src/knew	1	bash	:
+pane	0	3	:bash	0	:	1	:/Users/i0040679	1	bash	:
+window	0	1	0	:-	d55d,238x59,0,0,0
+window	0	2	1	:*	d55e,238x59,0,0,1
+window	0	3	0	:	d55f,238x59,0,0,2
+state	0	
