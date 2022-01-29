@@ -1,0 +1,5 @@
+pane	0	1	:ruby	1	:*	1	:/Users/i0040679/workspace/project/zink	1	ruby	:/usr/local/Homebrew/Library/Homebrew/vendor/portable-ruby/current/bin/ruby -W1 --disable=rubyopt /usr/local/Homebrew/Library/Homebrew/brew.rb upgrade
+pane	0	2	:zsh	0	:-	1	:/Users/i0040679/workspace/project/zink	1	zsh	:
+window	0	1	1	:*	c7fd,187x46,0,0,0
+window	0	2	0	:-	c7ff,187x46,0,0,2
+state	0	

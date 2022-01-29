@@ -1,0 +1,8 @@
+pane	0	1	:docker	1	:*	1	:/Users/i0040679/workspace/project/athena	0	bash	:sh ./run.sh
+pane	0	1	:docker	1	:*	2	:/Users/i0040679/workspace/project/athena	1	docker	:docker stats
+pane	0	2	:zsh	0	:-	1	:/Users/i0040679/workspace/project/athena	1	zsh	:
+pane	0	3	:zsh	0	:	1	:/Users/i0040679/workspace/project/athena	1	zsh	:
+window	0	1	1	:*	7773,187x46,0,0[187x23,0,0,0,187x22,0,24,3]
+window	0	2	0	:-	c7ff,187x46,0,0,2
+window	0	3	0	:	c801,187x46,0,0,4
+state	0	

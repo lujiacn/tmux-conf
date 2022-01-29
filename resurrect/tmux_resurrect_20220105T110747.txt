@@ -1,0 +1,6 @@
+pane	0	1	:bash	0	:##-	1	:/Users/i0040679/workspace/project/zink	1	bash	:sh ./run.sh
+pane	0	1	:bash	0	:##-	2	:/Users/i0040679/workspace/project/zink	0	zsh	:
+pane	0	2	:nvim	1	:*	1	:/Users/i0040679/workspace/project/zink	1	nvim	:nvim
+window	0	1	0	:##-	7773,187x46,0,0[187x23,0,0,0,187x22,0,24,3]
+window	0	2	1	:*	c7fe,187x46,0,0,1
+state	0	

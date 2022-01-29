@@ -1,0 +1,6 @@
+pane	0	1	:zsh	1	:*	1	:/Users/i0040679/.config/nvim	0	nvim	:nvim init.vim
+pane	0	1	:zsh	1	:*	2	:/Users/i0040679/workspace/project/pygrpc	1	zsh	:
+pane	0	2	:nvim	0	:-	1	:/Users/i0040679/.config/nvim	1	nvim	:nvim init.vim
+window	0	1	1	:*	35f6,238x52,0,0{119x52,0,0,0,118x52,120,0,3}
+window	0	2	0	:-	c55f,238x55,0,0,2
+state	0	

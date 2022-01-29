@@ -1,0 +1,9 @@
+pane	0	1	:python3.9	1	:*	1	:/Users/i0040679/workspace/project/pygrpc	0	nvim	:nvim
+pane	0	1	:python3.9	1	:*	2	:/Users/i0040679/workspace/project/pygrpc	1	python3.9	:/Users/i0040679/.pyenv/versions/3.9.2/bin/python server.py
+pane	0	2	:nvim	0	:##-	1	:/Users/i0040679/workspace/project/athena	0	bash	:sh ./run.sh
+pane	0	2	:nvim	0	:##-	2	:/Users/i0040679/workspace/project/athena	1	nvim	:nvim
+pane	0	3	:zsh	0	:	1	:/Users/i0040679/workspace/project/zink/app/lib/kafkajob	1	zsh	:
+window	0	1	1	:*	b1fa,187x46,0,0[187x34,0,0,2,187x11,0,35,9]
+window	0	2	0	:##-	6efd,187x46,0,0[187x10,0,0,4,187x35,0,11,8]
+window	0	3	0	:	c803,187x46,0,0,6
+state	0	

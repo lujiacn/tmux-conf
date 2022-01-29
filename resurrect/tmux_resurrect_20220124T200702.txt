@@ -1,0 +1,6 @@
+pane	0	1	:nvim	1	:*	1	:/Users/i0040679/.config/nvim	0	nvim	:nvim
+pane	0	1	:nvim	1	:*	2	:/Users/i0040679/.config/nvim/lua	1	nvim	:nvim plugins.lua
+pane	0	2	:nvim	0	:-	1	:/Users/i0040679/.config/nvim_old	1	nvim	:nvim init.vim
+window	0	1	1	:*	96b3,185x46,0,0[185x35,0,0,0,185x10,0,36,3]
+window	0	2	0	:-	c6ff,185x46,0,0,2
+state	0	

@@ -1,6 +1,0 @@
-pane	0	1	:bash	1	:*	1	:/Users/i0040679/workspace/go/src/knew	0	bash	:
-pane	0	1	:bash	1	:*	2	:/Users/i0040679/workspace/servers/bicc	1	bash	:-bash
-pane	0	2	:bash	0	:-	1	:/Users/i0040679	1	bash	:
-window	0	1	1	:*	4c23,158x40,0,0{79x40,0,0,0,78x40,80,0,2}
-window	0	2	0	:-	afbe,158x40,0,0,1
-state	0	

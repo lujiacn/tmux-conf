@@ -1,0 +1,7 @@
+pane	0	1	:nvim	1	:*	1	:/Users/i0040679/workspace/diva_dump/codiva	0	zsh	:
+pane	0	1	:nvim	1	:*	2	:/Users/i0040679/workspace/diva_dump/codiva	1	nvim	:nvim restore_athena_codvia_to_local.sh
+pane	0	1	:nvim	1	:*	3	:/Users/i0040679/workspace/diva_dump/codiva	0	zsh	:
+pane	0	2	:zsh	0	:-	1	:/Users/i0040679	1	zsh	:
+window	0	1	1	:*	d3fd,187x46,0,0[187x14,0,0,0,187x14,0,15,2,187x16,0,30,3]
+window	0	2	0	:-	c7fe,187x46,0,0,1
+state	0	

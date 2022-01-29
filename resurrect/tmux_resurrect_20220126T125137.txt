@@ -1,0 +1,13 @@
+pane	0	1	:zsh	0	:##-	1	:/Users/i0040679	1	zsh	:
+pane	0	2	:zsh	1	:##*	1	:/Users/i0040679	1	zsh	:
+pane	1	1	:nvim	0	:-	1	:/Users/i0040679/.config/nvim_self_config_test	1	nvim	:nvim
+pane	1	2	:zsh	1	:##*	1	:/Users/i0040679/.config	1	zsh	:
+pane	2	1	:zsh	1	:*	1	:/Users/i0040679/.config/nvim	1	zsh	:
+pane	2	2	:zsh	0	:-	1	:/Users/i0040679/.config	1	zsh	:
+window	0	1	0	:##-	c7fd,187x46,0,0,0
+window	0	2	1	:##*	c7fe,187x46,0,0,1
+window	1	1	0	:-	c7ff,187x46,0,0,2
+window	1	2	1	:##*	c801,187x46,0,0,4
+window	2	1	1	:*	c802,187x46,0,0,5
+window	2	2	0	:-	c803,187x46,0,0,6
+state	2	1

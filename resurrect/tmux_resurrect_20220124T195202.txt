@@ -1,0 +1,6 @@
+pane	0	1	:nvim	0	:-	1	:/Users/i0040679/.config/nvim	0	zsh	:
+pane	0	1	:nvim	0	:-	2	:/Users/i0040679/.config/nvim	1	nvim	:nvim init.vim
+pane	0	2	:zsh	1	:*	1	:/Users/i0040679/workspace/project/zink	1	zsh	:
+window	0	1	0	:-	b3b3,185x46,0,0[185x26,0,0,0,185x19,0,27,3]
+window	0	2	1	:*	c6ff,185x46,0,0,2
+state	0	

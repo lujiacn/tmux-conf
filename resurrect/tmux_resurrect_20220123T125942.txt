@@ -1,0 +1,5 @@
+pane	0	1	:nvim	0	:-	1	:/Users/i0040679/.config/nvim	1	nvim	:nvim init.vim
+pane	0	2	:nvim	1	:*	1	:/Users/i0040679/tmp	1	nvim	:nvim test.py
+window	0	1	0	:-	c7fd,187x46,0,0,0
+window	0	2	1	:*	c7fe,187x46,0,0,1
+state	0	

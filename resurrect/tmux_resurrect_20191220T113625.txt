@@ -1,5 +1,0 @@
-pane	0	1	:bash	0	:#-	1	:/Users/i0040679/workspace/go/src/athena	1	bash	:-bash
-pane	0	2	:bash	1	:*	1	:/Users/i0040679/workspace/go/src/athena	1	bash	:
-window	0	1	0	:#-	afbd,158x40,0,0,0
-window	0	2	1	:*	afbf,158x40,0,0,2
-state	0	

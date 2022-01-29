@@ -1,0 +1,10 @@
+pane	0	1	:zsh	1	:*	1	:/Users/i0040679/workspace/project/athena	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/i0040679/workspace/project/athena	0	bash	:sh ./run.sh
+pane	0	2	:python3.9	0	:	1	:/Users/i0040679/workspace/project/pygrpc	0	zsh	:
+pane	0	2	:python3.9	0	:	2	:/private/tmp/pygrpc/61e001484005f35857c36be1_UkEAkLrt	1	python3.9	:/Users/i0040679/.pyenv/versions/3.9.2/bin/python server.py
+pane	0	2	:python3.9	0	:	3	:/private/tmp/pygrpc	0	zsh	:
+pane	0	3	:zsh	0	:-	1	:/Users/i0040679/workspace/project/athena	1	zsh	:
+window	0	1	1	:*	bc01,187x46,0,0[187x23,0,0,0,187x22,0,24,14]
+window	0	2	0	:	66da,187x46,0,0[187x25,0,0,9,187x11,0,26,12,187x8,0,38,13]
+window	0	3	0	:-	6430,187x46,0,0,11
+state	0	

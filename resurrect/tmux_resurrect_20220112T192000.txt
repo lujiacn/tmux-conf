@@ -1,0 +1,10 @@
+pane	0	1	:bash	0	:##-	1	:/Users/i0040679/workspace/project/athena	1	bash	:sh ./run.sh
+pane	0	2	:nvim	1	:*	1	:/Users/i0040679/workspace/project/athena	1	nvim	:nvim
+pane	0	3	:zsh	0	:	1	:/Users/i0040679/workspace/project/athena	0	zsh	:
+pane	0	3	:zsh	0	:	2	:/Users/i0040679/workspace/project/pygrpc	1	zsh	:
+pane	0	4	:python3.10	0	:	1	:/private/tmp/pygrpc/61deb5824005f3914cdfbe67_AAoDEuvH	1	python3.10	:/Users/i0040679/.pyenv/versions/3.10.0/bin/python3 server.py
+window	0	1	0	:##-	c7fd,187x46,0,0,0
+window	0	2	1	:*	c7fe,187x46,0,0,1
+window	0	3	0	:	7777,187x46,0,0[187x23,0,0,2,187x22,0,24,3]
+window	0	4	0	:	c801,187x46,0,0,4
+state	0	
